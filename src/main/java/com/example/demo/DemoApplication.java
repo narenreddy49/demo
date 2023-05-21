@@ -26,7 +26,7 @@ public class DemoApplication {
 				new Student
 						(
 								10L,
-						"Naren",
+						"Naren123",
 						"naren@mail.com",
 						LocalDate.of(95, Month.AUGUST,19),
 								27
